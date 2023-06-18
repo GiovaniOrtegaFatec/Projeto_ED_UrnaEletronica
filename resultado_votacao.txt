@@ -1,0 +1,14 @@
+Relatório de votos por candidato: 
+Candidato: Giovani, Número: 13, Votos: 0
+Candidato: Chiara, Número: 10, Votos: 0
+Candidato: Rubens, Número: 20, Votos: 0
+Candidato: Erika, Número: 35, Votos: 0
+Candidato: Lucas, Número: 65, Votos: 0
+
+Relatório do total de votos: 0
+Relatório de eleitores faltantes:
+Eleitor: Giovani, Número: 123
+Eleitor: Erika, Número: 1234
+Eleitor: Rubens, Número: 756
+Eleitor: Chiara, Número: 123565
+Eleitor: Lucas, Número: 23156489
